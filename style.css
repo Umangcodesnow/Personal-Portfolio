@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/5454789.jpg");
+    background-color:silver;
+    height: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+};
+
+img {
+    border-radius: 25% 10%;
+}  
+ #text1{
+     color: goldenrod;
+ }
+ #text2{
+     color: goldenrod;
+ }
+ #skills{
+     color: goldenrod;
+ }
+ #projects{
+     color: goldenrod;
+ }
